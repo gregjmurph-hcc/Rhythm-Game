@@ -1,0 +1,7 @@
+{
+  "left_lane": "left",
+  "up_lane": "up",
+  "down_lane": "down",
+  "right_lane": "right",
+  "pause": "p"
+}
